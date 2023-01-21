@@ -1,0 +1,59 @@
+body{
+    background-color:#F1FBFF !important;
+}
+
+.card-box{
+    position: relative;
+    width: 600px;
+    height: 70px;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    right: 150px;
+    
+}
+
+.card-box .box{
+    position: relative;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background: white;
+    box-shadow: 0.3px 1px 2px 0px;
+}
+.icons span i{
+    font-size: 30px;
+    color: #32D74B;
+}
+
+.icon{
+    position: absolute;
+    width: 30px;
+    height: 264px;
+
+    top: 70px;
+    left: 29px;
+    
+}
+.u-li{
+    list-style-type: none;
+    line-height: 30px;
+    margin-top: 10px;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    
+    
+}
+
+.card-list{
+    background: white;
+    width: 288px;;
+
+}
+
+.icn{
+    font-size: 27px;
+}
+.tb{
+    font-size: 25px;
+}
